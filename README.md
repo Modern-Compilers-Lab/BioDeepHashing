@@ -1,4 +1,4 @@
-# Code Base for BioDeepHashing, include
+# Code Base for BioDeepHashing Project
 - Hybrid Bio-Training 
 - HHNet: High-resolution hashing network (arXiv:2403.13747)
 
