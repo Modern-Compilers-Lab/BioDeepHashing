@@ -1,0 +1,7 @@
+images/
+*.txt
+ImageNet/
+bioexp/
+demoexp/
+__pycache__/
+raw/
